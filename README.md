@@ -97,22 +97,7 @@ So visually:
 └── page3_dashboard.png
 ```
 
-⬇️ **then**
 
-```text
-Dashboard Preview
-```
-
-### Delete these completely
-
-Do **not** include:
-
-```markdown
-### Then
-
-1. Click **Preview**.
-2. Check that the three images appear.
-3. If everything looks correct, click **Commit changes**.
 
 **Important:** ...
 ```
