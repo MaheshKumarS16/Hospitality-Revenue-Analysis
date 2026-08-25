@@ -66,6 +66,7 @@ Hospitality-Revenue-Analysis/
     ├── page1_dashboard.png
     ├── page2_dashboard.png
     └── page3_dashboard.png
+```
 
 ## 📷 Dashboard Preview
 
@@ -81,11 +82,41 @@ Hospitality-Revenue-Analysis/
 
 ![Dashboard Page 3](screenshots/page3_dashboard.png)
 
+    └── page3_dashboard.png
+```
 
+Then:
+
+```markdown
+## 📷 Dashboard Preview
+```
+
+So visually:
+
+```text
+└── page3_dashboard.png
+```
+
+⬇️ **then**
+
+```text
+Dashboard Preview
+```
+
+### Delete these completely
+
+Do **not** include:
+
+```markdown
 ### Then
 
 1. Click **Preview**.
 2. Check that the three images appear.
 3. If everything looks correct, click **Commit changes**.
 
-**Important:** The ` ``` ` immediately after `page3_dashboard.png` in the file structure is essential. It closes the code block; otherwise the Dashboard Preview will appear as plain code.
+**Important:** ...
+```
+
+Those were instructions for you, not part of the README.
+
+After making this change, click **Preview**. The three dashboard images should render as actual images. Then you can commit the README.
