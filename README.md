@@ -85,23 +85,3 @@ Hospitality-Revenue-Analysis/
     └── page3_dashboard.png
 ```
 
-Then:
-
-```markdown
-## 📷 Dashboard Preview
-```
-
-So visually:
-
-```text
-└── page3_dashboard.png
-```
-
-
-
-**Important:** ...
-```
-
-Those were instructions for you, not part of the README.
-
-After making this change, click **Preview**. The three dashboard images should render as actual images. Then you can commit the README.
