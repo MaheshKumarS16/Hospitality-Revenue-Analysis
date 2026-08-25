@@ -13,7 +13,7 @@ This project analyzes hospitality business data to identify key revenue and oper
 - Understand booking and occupancy trends
 - Compare performance across hotels and properties
 - Identify revenue patterns and business opportunities
-- Build an interactive dashboard for business decision-making
+- Support data-driven business decisions
 
 ## 🛠️ Tools & Technologies
 
@@ -25,7 +25,7 @@ This project analyzes hospitality business data to identify key revenue and oper
 
 ## 📈 Dashboard
 
-The Power BI dashboard provides an interactive view of:
+The dashboard provides an interactive view of:
 
 - Revenue performance
 - Booking trends
@@ -66,3 +66,26 @@ Hospitality-Revenue-Analysis/
     ├── page1_dashboard.png
     ├── page2_dashboard.png
     └── page3_dashboard.png
+
+## 📷 Dashboard Preview
+
+### Page 1
+
+![Dashboard Page 1](screenshots/page1_dashboard.png)
+
+### Page 2
+
+![Dashboard Page 2](screenshots/page2_dashboard.png)
+
+### Page 3
+
+![Dashboard Page 3](screenshots/page3_dashboard.png)
+
+
+### Then
+
+1. Click **Preview**.
+2. Check that the three images appear.
+3. If everything looks correct, click **Commit changes**.
+
+**Important:** The ` ``` ` immediately after `page3_dashboard.png` in the file structure is essential. It closes the code block; otherwise the Dashboard Preview will appear as plain code.
